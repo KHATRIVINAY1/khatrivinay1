@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khatrivinay1" alt="khatrivinay1" /></a> </p>
 
 - 🔭 I’m currently working on Techgeekbuzz [TechGeekBuzz](https:www.techgeekbuzz.com)
+- 🔭 I’m currently working on Techatom [Techatom.org](https:www.techatom.org)
+
 
 - 🌱 I’m currently learning **react,**
 
