@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khatrivinay1" alt="khatrivinay1" /></a> </p>
 
-- 🔭 I’m currently working on Techgeekbuzz [TechGeekBuzz](https:www.techgeekbuzz.com)
-- 🔭 I’m currently working on Techatom [Techatom.org](https:www.techatom.org)
+- 🔭 I’m currently working at Innefu Labs Pvt Ltd as a full-stack developer
 
-
-- 🌱 I’m currently learning **react,**
+- 🌱 I’m currently learning **react,** **Ethical hacking** **Cyber Security**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
