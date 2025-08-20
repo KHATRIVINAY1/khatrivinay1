@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at Innefu Labs Pvt Ltd as a full-stack developer
 
-- 🌱 I’m currently learning **react,** **Ethical hacking** **Cyber Security**
+- 🌱 I’m currently learning **react** and **rust**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
